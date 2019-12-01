@@ -7,11 +7,13 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace StudentWebAppClient {
-    
-    
-    public partial class StudentQuery {
-        
+namespace StudentWebAppClient
+{
+
+
+    public partial class StudentQuery
+    {
+
         /// <summary>
         /// Head1 control.
         /// </summary>
@@ -20,7 +22,7 @@ namespace StudentWebAppClient {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.HtmlControls.HtmlHead Head1;
-        
+
         /// <summary>
         /// form1 control.
         /// </summary>
@@ -29,7 +31,7 @@ namespace StudentWebAppClient {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
-        
+
         /// <summary>
         /// ScriptManager1 control.
         /// </summary>
@@ -38,7 +40,7 @@ namespace StudentWebAppClient {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.ScriptManager ScriptManager1;
-        
+
         /// <summary>
         /// txtStudentId control.
         /// </summary>
@@ -47,7 +49,7 @@ namespace StudentWebAppClient {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txtStudentId;
-        
+
         /// <summary>
         /// txtFirstName control.
         /// </summary>
@@ -56,7 +58,7 @@ namespace StudentWebAppClient {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txtFirstName;
-        
+
         /// <summary>
         /// txtLastName control.
         /// </summary>
@@ -65,7 +67,7 @@ namespace StudentWebAppClient {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txtLastName;
-        
+
         /// <summary>
         /// txtGender control.
         /// </summary>
@@ -74,7 +76,7 @@ namespace StudentWebAppClient {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txtGender;
-        
+
         /// <summary>
         /// txtAge control.
         /// </summary>
@@ -83,7 +85,7 @@ namespace StudentWebAppClient {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txtAge;
-        
+
         /// <summary>
         /// lblErrorMsg control.
         /// </summary>
@@ -92,7 +94,7 @@ namespace StudentWebAppClient {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label lblErrorMsg;
-        
+
         /// <summary>
         /// getStudent control.
         /// </summary>
@@ -101,7 +103,7 @@ namespace StudentWebAppClient {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button getStudent;
-        
+
         /// <summary>
         /// getStudentAuthentication control.
         /// </summary>
@@ -110,7 +112,7 @@ namespace StudentWebAppClient {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button getStudentAuthentication;
-        
+
         /// <summary>
         /// pnlServiceResponse control.
         /// </summary>
@@ -119,7 +121,7 @@ namespace StudentWebAppClient {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Panel pnlServiceResponse;
-        
+
         /// <summary>
         /// tblResponseMsg control.
         /// </summary>
@@ -128,7 +130,7 @@ namespace StudentWebAppClient {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Table tblResponseMsg;
-        
+
         /// <summary>
         /// lblheader control.
         /// </summary>
@@ -137,7 +139,7 @@ namespace StudentWebAppClient {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label lblheader;
-        
+
         /// <summary>
         /// lblresponseMsg control.
         /// </summary>
@@ -146,7 +148,7 @@ namespace StudentWebAppClient {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label lblresponseMsg;
-        
+
         /// <summary>
         /// lblResponse control.
         /// </summary>
@@ -155,7 +157,7 @@ namespace StudentWebAppClient {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label lblResponse;
-        
+
         /// <summary>
         /// lblmessage control.
         /// </summary>
@@ -164,7 +166,7 @@ namespace StudentWebAppClient {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label lblmessage;
-        
+
         /// <summary>
         /// lblMessageId control.
         /// </summary>

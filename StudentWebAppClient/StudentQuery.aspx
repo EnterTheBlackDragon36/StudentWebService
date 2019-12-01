@@ -80,28 +80,14 @@
                 <asp:TableHeaderRow>
                     <asp:TableCell>
                         <asp:Label ID="lblheader" runat="server" Text="Web Service Response" />
-                    </asp:TableCell>
-                </asp:TableHeaderRow>
-                <asp:TableRow>
+                    </asp:TableCell></asp:TableHeaderRow><asp:TableRow>
                     <asp:TableCell>
                         <asp:Label ID="lblresponseMsg" runat="server" Text="Response:" />
-                    </asp:TableCell>
-                    <asp:TableCell>
+                    </asp:TableCell><asp:TableCell>
                         <asp:Label ID="lblResponse" runat="server" />
-                    </asp:TableCell>
-                </asp:TableRow>
-                <asp:TableRow>
+                    </asp:TableCell></asp:TableRow><asp:TableRow>
                      <asp:TableCell>
                         <asp:Label ID="lblmessage" Text="Message ID:" runat="server" />
-                    </asp:TableCell>
-                     <asp:TableCell>
+                    </asp:TableCell><asp:TableCell>
                         <asp:Label ID="lblMessageId" runat="server" />
-                    </asp:TableCell>
-                </asp:TableRow>
-
-            </asp:Table>
-        </asp:Panel>
-
-    </form>
-</body>
-</html>
+                    </asp:TableCell></asp:TableRow></asp:Table></asp:Panel></form></body></html>
